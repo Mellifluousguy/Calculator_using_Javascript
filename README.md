@@ -1,1 +1,2 @@
-# Calculator_using_Javascript
+# I maede a Calculator Using HTML, CSS and Javascript.
+I learnt to make this calculator from youtube.
